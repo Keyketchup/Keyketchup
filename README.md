@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Keyketchup
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Introduction**
 
-<!---
-Keyketchup/Keyketchup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Name is Crate, I'm interested in programming and developing lot of things.
+
+**Contact**
+
+Discord : "unknownworm#0050"
+
+Gmail : "whodunnowhy7@gmail.com"
